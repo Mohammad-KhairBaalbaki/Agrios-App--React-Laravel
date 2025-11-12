@@ -17,7 +17,7 @@ const Menu = () => {
         <div className="row">
           <div className='logo'>
             <a className='navbar-brand' href="">
-              <img src="../agrious-logo.svg" alt="" />
+              <img src="../src/assets/imgs/agrious-logo.svg" alt="" />
             </a>
           </div>
         </div>
